@@ -9,3 +9,4 @@ This project's audio/interactive elements are in progress.
 
 ![Screen Shot 2021-03-24 at 11 49 59 AM](https://user-images.githubusercontent.com/78500088/112351174-aae4be00-8c97-11eb-9c59-624e6dde0e26.png)
 
+![Screen Shot 2021-03-24 at 11 57 48 AM](https://user-images.githubusercontent.com/78500088/112351962-5aba2b80-8c98-11eb-9f63-8c1c3918d1b6.png)
