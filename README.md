@@ -1,5 +1,5 @@
 # Music-Video
-This is an interactive music video for my song "Molly." It uses Hydra to interact with the code. The rotation, color, invert, repeat and scale of the video can be altered by changing the numbers in the code.  
+This is an interactive music video for my song "Molly." It uses Hydra to interact with the code. The rotation, color, invert, repeat and scale of the video can be altered by changing the numbers in the code. Press 'play' to start the video. 
 
 This project's audio/interactive elements are in progress. 
 
